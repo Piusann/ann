@@ -1,0 +1,12 @@
+.swiper{
+    width: 100%;
+    height: 15rem;
+}
+.swiper-wrapper{
+    display: flex;
+}
+.swiper-slide{
+    width: 18rem;
+    /* height: 14rem; */
+    background-color: black;
+}
